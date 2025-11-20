@@ -1,0 +1,5 @@
+{
+  "name": "PyCompete: Full-Stack Python Coding Competition",
+  "description": "A full-stack Python coding competition platform using React, Node.js (simulated), and MongoDB (simulated via localStorage). Features a password-protected admin dashboard, real-time leaderboard, anti-cheat detection, and an Ace code editor. All Python execution is handled client-side via Pyodide.",
+  "requestFramePermissions": []
+}
